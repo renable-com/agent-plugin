@@ -1,0 +1,14 @@
+{
+  "name": "renable",
+  "owner": {
+    "name": "Renable Marketing AB",
+    "url": "https://renable.com"
+  },
+  "description": "Renable's plugins for AI agents: each connects the agent to your Renable account through Renable's MCP server.",
+  "plugins": [
+    {
+      "name": "renable",
+      "source": "./claude"
+    }
+  ]
+}

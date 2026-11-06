@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "renable": {
+      "type": "http",
+      "url": "https://api.renable.com/mcp"
+    }
+  }
+}

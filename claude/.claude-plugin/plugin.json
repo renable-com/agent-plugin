@@ -1,0 +1,17 @@
+{
+  "name": "renable",
+  "displayName": "Renable",
+  "version": "0.1.0",
+  "description": "Work in your Renable account from Claude: read and build catalogs, rules, channels and product sets, and move a feed setup from another feed tool to Renable, checked product by product.",
+  "author": {
+    "name": "Renable Marketing AB",
+    "url": "https://renable.com"
+  },
+  "homepage": "https://renable.com",
+  "documentationUrl": "https://renable.com/help/connecting-an-agent",
+  "supportUrl": "https://renable.com/contact",
+  "privacyPolicyUrl": "https://renable.com/privacy-and-cookies-policies",
+  "termsOfServiceUrl": "https://renable.com/terms-of-use",
+  "license": "MIT",
+  "keywords": ["product feeds", "feed management", "catalog ads", "feed migration"]
+}
